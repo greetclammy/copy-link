@@ -53,6 +53,11 @@ Note: to get updates for _Copy Link_, you will have to check for and install the
 - [Carry-Forward](https://obsidian.md/plugins?id=obsidian-carry-forward)
 - [Text Transporter](https://obsidian.md/plugins?id=obsidian42-text-transporter)
 - [Advanced URI](https://obsidian.md/plugins?id=obsidian-advanced-uri)
+- [Commander](https://obsidian.md/plugins?id=cmdr)
+
+## 🙏 Acknowledgements
+
+This plugin builds on [Copy Block Link](https://github.com/mgmeyers/obsidian-copy-block-link) and employs some of its code.
 
 ## 👨‍💻 What else I made
 
