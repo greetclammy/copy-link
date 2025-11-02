@@ -63,7 +63,3 @@ This plugin builds on [Copy Block Link](https://github.com/mgmeyers/obsidian-cop
 
 - [First Line is Title](https://github.com/greetclammy/first-line-is-title) - Automatically set the first line as note title.
 - [Adapt to Current View](https://github.com/greetclammy/adapt-to-current-view/) - Set different accent colors for Reading view, Live Preview and Source view.
-
-<br>
-
-<p align="center">Made with ❤️ for the Obsidian community</p>
