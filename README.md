@@ -54,6 +54,7 @@ Note: to get updates for _Copy Link_, you will have to check for and install the
 - [Text Transporter](https://obsidian.md/plugins?id=obsidian42-text-transporter)
 - [Advanced URI](https://obsidian.md/plugins?id=obsidian-advanced-uri)
 - [Commander](https://obsidian.md/plugins?id=cmdr)
+- [Easy Copy](https://obsidian.md/plugins?id=easy-copy)
 
 ## 🙏 Thanks
 
