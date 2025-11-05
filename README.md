@@ -62,5 +62,6 @@ This plugin builds on [Copy Block Link](https://github.com/mgmeyers/obsidian-cop
 
 ## 👨‍💻 My plugins
 
-- [First Line is Title](https://github.com/greetclammy/first-line-is-title) - Automatically set the first line as note title.
 - [Adapt to Current View](https://github.com/greetclammy/adapt-to-current-view/) - Set different accent colors for Reading view, Live Preview and Source view.
+- [Dynamic Views](https://github.com/greetclammy/dynamic-views) - Elegant card layouts for Bases and Datacore.
+- [First Line is Title](https://github.com/greetclammy/first-line-is-title) - Automatically set the first line as note title.
