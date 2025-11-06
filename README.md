@@ -46,22 +46,6 @@ Note: to get updates for _Copy Link_, you will have to check for and install the
 3. Reload plugins or app.
 4. Enable _Copy Link_ in Obsidian settings > Community plugins > Installed plugins.
 
-## 👀 Similar plugins
-
-- [Copy Block Link](https://obsidian.md/plugins?id=obsidian-copy-block-link)
-- [Block Link Plus](https://obsidian.md/plugins?id=block-link-plus)
-- [Carry-Forward](https://obsidian.md/plugins?id=obsidian-carry-forward)
-- [Text Transporter](https://obsidian.md/plugins?id=obsidian42-text-transporter)
-- [Advanced URI](https://obsidian.md/plugins?id=obsidian-advanced-uri)
-- [Commander](https://obsidian.md/plugins?id=cmdr)
-- [Easy Copy](https://obsidian.md/plugins?id=easy-copy)
-
 ## 🙏 Thanks
 
 This plugin builds on [Copy Block Link](https://github.com/mgmeyers/obsidian-copy-block-link) and employs some of its code.
-
-## 👨‍💻 My plugins
-
-- [Adapt to Current View](https://github.com/greetclammy/adapt-to-current-view/) - Set different accent colors for Reading view, Live Preview and Source view.
-- [Dynamic Views](https://github.com/greetclammy/dynamic-views) - Elegant card views for Bases and Datacore.
-- [First Line is Title](https://github.com/greetclammy/first-line-is-title) - Automatically set the first line as note title.
