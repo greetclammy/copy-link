@@ -23,33 +23,12 @@ Available in the editor context menu (right-click in editor):
 - **Copy block URL** - Creates an obsidian://open URL for the block: `obsidian://open?vault=...&file=...%23%5Eblockid`, works with multi-block selections (creates multiple URLs on separate lines)
 - **Copy block link with selection as caption** - Creates a block link using the selected text as the caption: `[[note#^blockid|selected text]]`
 
-## Installation
-
-Until _Copy Link_ is [made available](https://github.com/obsidianmd/obsidian-releases/pull/8068) in the plugin directory, to install it:
-
-1. Download and enable the [BRAT](https://churnish.github.io/http-protocol-redirector?r=obsidian://show-plugin?id=obsidian42-brat) plugin.
-2. [Install via BRAT](https://churnish.github.io/http-protocol-redirector?r=obsidian://brat?plugin=churnish/copy-link).
-3. Select **Add plugin**.
-
-<details><summary>Install manually</summary>
-
-Note: To get updates for _Copy Link_, you will have to check for and install them manually.
-
-1. Download `copy-link.zip` in the `Assets` of the [latest release](https://github.com/churnish/copy-link/releases).
-2. Open the vault folder in the system file manager.
-3. Open your Obsidian configuration folder (`.obsidian` by default, hidden on most OSes).
-4. Unzip `copy-link.zip` and place it in the `plugins` folder.
-5. Reload plugins or app.
-6. Enable _Copy Link_ in Obsidian settings → Community plugins → Installed plugins.
-
-</details>
-
 ## Support
 
 - Found a bug or have a feature request? [Open an issue](https://github.com/churnish/copy-link/issues).
 - Have a question? [Start a discussion](https://github.com/churnish/copy-link/discussions).
-- PRs welcome.
+- Contributors welcome.
 
 ## Credits
 
-This plugin builds on [Copy Block Link](https://github.com/mgmeyers/obsidian-copy-block-link) and employs some of its code.
+This plugin builds on [Copy Block Link](https://community.obsidian.md/plugins/obsidian-copy-block-link) and employs some of its code.
